@@ -30,7 +30,6 @@ public class WifiDirectBroadcastReceiver extends BroadcastReceiver {
         this.myWifiActivity = activity;
     }
 
-
     @Override
     public void onReceive(Context context, Intent intent) {
         String action = intent.getAction();

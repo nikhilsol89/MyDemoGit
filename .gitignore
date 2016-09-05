@@ -7,5 +7,6 @@
 /build
 /captures
 /gradle.properties
+/settings.gradle
 /gradle
 /.idea

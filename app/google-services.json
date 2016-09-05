@@ -1,0 +1,38 @@
+{
+  "project_info": {
+    "project_number": "765154691622",
+    "project_id": "myapplication-3c805"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:765154691622:android:69626929578332c3",
+        "android_client_info": {
+          "package_name": "com.example.nsolanki.myapplication"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD6Qbwp-HYlcEgUcYkZjMswo4AhRMaNoA8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 2,
+          "analytics_property": {
+            "tracking_id": "UA-83724535-1"
+          }
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
